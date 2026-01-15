@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_todo_app
 
 Todo App Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# todoListPlanner
+A simple To-Do List App
+>>>>>>> 8f86cd6f9c84d7658fae6d7f1078848fb380f2ab
