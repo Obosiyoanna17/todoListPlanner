@@ -1,21 +1,15 @@
-<<<<<<< HEAD
-# my_todo_app
+ Todo App Project.
 
-Todo App Flutter project.
+## About the Project
 
-## Getting Started
+This project is a simple To-Do planner that helps you stay organised  and productive everyday.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+### Intro_Page Screen
+<img width="300" alt="Intro_Page screen" src="https://github.com/user-attachments/assets/07b3ab3e-5052-4efc-bb54-36fa13fe8eaa" />
+" />
 
-A few resources to get you started if this is your first Flutter project:
+### Tasks_Page Screen
+<img width="300" alt="Tasks_Page Screen" src="https://github.com/user-attachments/assets/22ef6ae0-6fa4-42df-8b66-6ca598090615" />
+" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# todoListPlanner
-A simple To-Do List App
->>>>>>> 8f86cd6f9c84d7658fae6d7f1078848fb380f2ab
